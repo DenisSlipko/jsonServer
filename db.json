@@ -1,9 +1,9 @@
 {
   "countries": [
     {
-      "name": "LASDdasddassd",
-      "iso3": "sadASMsda",
-      "phone_code": "+1-684",
+      "name": "sdsdTestв",
+      "iso3": "dDP",
+      "phone_code": "+ddd",
       "currency": "USD",
       "capital": "Pago Pago",
       "id": 1
@@ -161,7 +161,7 @@
       "capital": "Bridgetown"
     },
     {
-      "name": "sadASMsda",
+      "name": "Dnipro",
       "iso3": "sadASMsda",
       "phone_code": "+1-684",
       "currency": "USD",
