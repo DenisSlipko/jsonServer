@@ -1,7 +1,7 @@
 {
   "countries": [
     {
-      "name": "Agfjhgk",
+      "name": "dad",
       "iso3": "sad",
       "phone_code": "111",
       "currency": "ss",
@@ -11528,8 +11528,8 @@
   ],
   "states": [
     {
-      "name": "Badakhshan",
-      "country_code": "AF",
+      "name": "Badakhsh",
+      "country_code": "AFS",
       "country_name": "Afghanistan",
       "state_code": "BDS",
       "id": 3901
